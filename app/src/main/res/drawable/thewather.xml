@@ -7,4 +7,11 @@
     <item android:drawable="@drawable/w5" android:duration="150"/>
     <item android:drawable="@drawable/w6" android:duration="150"/>
     <item android:drawable="@drawable/w7" android:duration="150"/>
+    <item android:drawable="@drawable/w6" android:duration="150"/>
+    <item android:drawable="@drawable/w5" android:duration="150"/>
+    <item android:drawable="@drawable/w4" android:duration="150"/>
+    <item android:drawable="@drawable/w3" android:duration="150"/>
+    <item android:drawable="@drawable/w2" android:duration="150"/>
+    <item android:drawable="@drawable/w1" android:duration="150"/>
+    
 </animation-list>
